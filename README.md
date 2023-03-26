@@ -3,7 +3,7 @@
 
 - 💼 At work, I’m currently working on **IBOR Transformation Programme**
 
-- 🔭 At home, I have worked on **HyperionDev Data Science Course Bootcamp**
+- 🔭 At home, I have completed the **HyperionDev Data Science Course Bootcamp**
 
 - 🌱 I’m currently learning **machine learning and data engineering concepts.**
 
