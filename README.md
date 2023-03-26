@@ -3,9 +3,9 @@
 
 - 💼 At work, I’m currently working on **IBOR Transformation Programme**
 
-- 🌱 At home, I’m currently learning **machine learning and data engineering concepts.**
-
 - 🔭 At home, I have worked on **HyperionDev Data Science Course Bootcamp**
+
+- 🌱 I’m currently learning **machine learning and data engineering concepts.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZAFAR212](https://github.com/ZAFAR212)
 
