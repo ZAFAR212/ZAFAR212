@@ -1,0 +1,71 @@
+/* Set default font family and size */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+  }
+  
+  /* Style heading and subheading */
+  h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  /* Style project section */
+  .project {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  
+  .project h3 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 0;
+  }
+  
+  .project p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 8px;
+    margin-bottom: 0;
+  }
+  
+  /* Style skills section */
+  .skills {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  
+  .skills ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .skills li {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 8px;
+  }
+  
+  /* Style contact section */
+  .contact {
+    margin-top: 24px;
+    margin-bottom: 24px;
+  }
+  
+  .contact p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 8px;
+    margin-bottom: 0;
+  }
+  
+  .contact a {
+    color: #007bff;
+    text-decoration: none;
+  }
