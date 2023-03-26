@@ -11,7 +11,7 @@
 
 - 📝 Connect with me on Linkedin [https://www.linkedin.com/in/zafar-hassan-29b490178/](https://www.linkedin.com/in/zafar-hassan-29b490178/)
 
-- 💬 Automation of business processes, financial markets, machine learning. **Libraries: pandas, numpy, atoti, sklearn,seaborn & matplotlib**
+- 💬 Ask me about: Automation of business processes, financial markets, machine learning. **Libraries: pandas, numpy, atoti, sklearn,seaborn & matplotlib**
 
 - 📫 How to reach me **zafarhassan1@live.co.uk**
 
