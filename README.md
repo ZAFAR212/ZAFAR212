@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Zafar</h1>
 <h3 align="center">A driven data analyst with an interest in Machine Learning and Financial Markets.</h3>
 
-- 💼 At work, I’m currently working on **IBOR Transformation Programme**
+- 💼 At work, I’m currently working on **Carbon Emissions Modelling**
 
 - 🔭 At home, I have completed the **HyperionDev Data Science Course Bootcamp [https://www.hyperiondev.com/portfolio/113351/](https://www.hyperiondev.com/portfolio/113351/)**
 
-- 🌱 I’m currently learning **machine learning and data engineering concepts.**
+- 🌱 I’m currently learning **quantitative techniques & valuation/risk models in the FRM qualification.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZAFAR212](https://github.com/ZAFAR212)
 
 - 📝 Connect with me on Linkedin [https://www.linkedin.com/in/zafar-hassan-29b490178/](https://www.linkedin.com/in/zafar-hassan-29b490178/)
 
-- 💬 Ask me about: Automation of business processes, financial markets, machine learning. **Libraries: pandas, numpy, atoti, sklearn,seaborn & matplotlib**
+- 💬 Ask me about: Automation of business processes, financial markets, quantitative analysis. **Libraries: pandas, numpy, atoti, sklearn,seaborn, matplotlib, itertools, functools and pyspark.**
 
-- 📫 How to reach me **zafarhassan1@live.co.uk**
+- 📫 How to reach me **zafarhassan1@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
