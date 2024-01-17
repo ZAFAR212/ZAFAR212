@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zafar</h1>
-<h3 align="center">A driven data analyst with an interest in Machine Learning and Financial Markets.</h3>
+<h3 align="center">A driven data analyst with an interest in pipeline/model development and financial markets.</h3>
 
 - 💼 At work, I’m currently working on **Carbon Emissions Modelling**
 
